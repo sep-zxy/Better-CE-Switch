@@ -7,6 +7,8 @@ A more efficient input method management mode can help you quickly convert freel
 - 可以通过 ctrl+win+空格 关闭脚本
 
 ## 如何使用
-- 如果想要直接使用可以直接下载Releases中的安装包安装
+- 如果想要直接使用可以直接下载[Releases](https://github.com/sep-zxy/Better-CE-Switch/releases)中的安装包安装
 
-- 如果想要自定义请克隆代码并下载autohotket软件
+- 如果想要自定义快捷键和其他内容（如其他语言的输入法切换）请克隆代码并查看下一部分
+
+## 如何自定义和编译
