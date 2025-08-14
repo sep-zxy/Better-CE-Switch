@@ -20,3 +20,7 @@ A more efficient input method management mode can help you quickly convert freel
 <img width="494" height="146" alt="image" src="https://github.com/user-attachments/assets/e16720d0-2cb7-45c8-9f28-4e02d308020c" />
 
 ### 编译方法
+- 按照上面的提示修改代码
+- 下载[Autohotkey](https://www.autohotkey.com/)
+- 在安装目录中找到Ahk2Exe.exe文件
+- 使用该文件编译修改后的代码为exe版本
