@@ -12,3 +12,11 @@ A more efficient input method management mode can help you quickly convert freel
 - 如果想要自定义快捷键和其他内容（如其他语言的输入法切换）请克隆代码并查看下一部分
 
 ## 如何自定义和编译
+
+### 自定义热键
+<img width="293" height="192" alt="image" src="https://github.com/user-attachments/assets/d84b4c2c-6a66-42a0-bddc-f19b3d311c33" />
+
+### 自定义切换时间和语言
+<img width="494" height="146" alt="image" src="https://github.com/user-attachments/assets/e16720d0-2cb7-45c8-9f28-4e02d308020c" />
+
+### 编译方法
